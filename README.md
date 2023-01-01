@@ -2,6 +2,7 @@
 Video links :
 https://www.youtube.com/watch?v=Urwzk6ILvPQ (map,reduce,find)
 https://www.youtube.com/watch?v=G4T2ZgJPKbw(object destructing)
+https://www.youtube.com/watch?v=AyJq1RRaY_k(async, await)
 
 
 
