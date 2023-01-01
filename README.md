@@ -1,3 +1,23 @@
+
+Video links :
+https://www.youtube.com/watch?v=Urwzk6ILvPQ (map,reduce,find)
+https://www.youtube.com/watch?v=G4T2ZgJPKbw(object destructing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Modern JavaScript Cheatsheet
 
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
